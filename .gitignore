@@ -1,0 +1,10 @@
+*.db
+assets/external/
+*.py[cod]
+__pycache__/
+.web
+.venv
+Include
+Lib
+venv
+Scripts
